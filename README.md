@@ -1,2 +1,2 @@
-# Algorithms420
-420 Algorithms Honors Project, Fall 2015
+# CS 420 Algorithms Honors Project 
+Program to find outerplanar embedding of graph, using Manfred Weigers' trick to achieve O(n) time
